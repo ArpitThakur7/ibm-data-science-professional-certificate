@@ -18,4 +18,4 @@ Data science is the field of gaining insights from data, often with a focus on u
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
 
-<img src="https://github.com/ArpitThakur7/ibm-data-science-professional-certificate/blob/main/01.%20What%20is%20Data%20Science/module1.png?raw=true" alt="Module 1 Certificate" height="35">
+<img src="https://github.com/ArpitThakur7/ibm-data-science-professional-certificate/blob/main/01.%20What%20is%20Data%20Science/module1.png?raw=true" alt="Module 1 Certificate" height="400">
