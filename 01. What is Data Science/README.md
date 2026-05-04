@@ -18,5 +18,5 @@ Data science is the field of gaining insights from data, often with a focus on u
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
 
-📄 [View Module 1 Certificate (PDF)](../../module1.pdf)
+📄 [View Module 1 Certificate](../../module1.png)
 
